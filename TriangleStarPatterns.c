@@ -94,6 +94,11 @@ int main()
             reversestarpattern(star);
             printf("\n");
         }
+            
+        else
+        {
+            printf("**Invalid Input\nPlease Try Again\n\n");
+        }
     }
 
     return 0;
