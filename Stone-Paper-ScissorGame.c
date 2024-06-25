@@ -1,6 +1,4 @@
 // Creator :- Aaryan Modi
-// Date :- 18/06/2024
-// Project No. :- 9
 // Project Name :- Stone-Paper-Scissor Game Using C language
 
 #include <stdio.h>
