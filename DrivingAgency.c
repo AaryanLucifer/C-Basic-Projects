@@ -1,6 +1,4 @@
 // Name :- Aaryan Modi
-// Project No. :- 7
-// Date :- 13/06/2024
 
 /*Method 1*/
 
