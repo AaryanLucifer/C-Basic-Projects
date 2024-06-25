@@ -1,6 +1,4 @@
 // Creator :- Aaryan Modi
-// Date :- 14/06/2024
-// Project No. :- 8 
 // Project Name :- Employee Id Entering Using Dynamic Memory Allocation
  
 
